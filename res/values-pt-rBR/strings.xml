@@ -21,7 +21,6 @@
   <string name="ambient_display_label">Tela ambiente</string>
   <string name="network_adb_label">ADB pela rede</string>
   <string name="heads_up_label">Notificações pop-up</string>
-  <string name="sync_label">Sincronização</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Cafeína</string>
 </resources>

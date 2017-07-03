@@ -18,6 +18,5 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Labels -->
   <string name="ambient_display_label">Omgivningsskärm</string>
-  <string name="sync_label">Synk</string>
   <!-- Caffeine -->
 </resources>

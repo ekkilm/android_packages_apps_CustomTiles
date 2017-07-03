@@ -21,7 +21,6 @@
   <string name="ambient_display_label">Omgivelsesbetinget visning</string>
   <string name="network_adb_label">ADB over netværk</string>
   <string name="heads_up_label">Pop-op</string>
-  <string name="sync_label">Synkronisér</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Koffein</string>
 </resources>

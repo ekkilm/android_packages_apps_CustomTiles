@@ -21,7 +21,6 @@
   <string name="ambient_display_label">Ambientní displej</string>
   <string name="network_adb_label">ADB po síti</string>
   <string name="heads_up_label">Plovoucí upozornění</string>
-  <string name="sync_label">Synchronizace</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Kofein</string>
 </resources>

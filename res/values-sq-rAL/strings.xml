@@ -21,7 +21,6 @@
   <string name="ambient_display_label">Drita e ekranit sipas ambientit</string>
   <string name="network_adb_label">ADB mbi rrjet</string>
   <string name="heads_up_label">Heads up</string>
-  <string name="sync_label">Sinkronizim</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Kafeina</string>
 </resources>

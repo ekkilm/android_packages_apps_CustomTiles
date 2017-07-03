@@ -21,7 +21,6 @@
   <string name="ambient_display_label">Aktywny wyświetlacz</string>
   <string name="network_adb_label">ADB przez sieć</string>
   <string name="heads_up_label">Wyskakujące powiadomienia</string>
-  <string name="sync_label">Synchronizacja</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Kofeina</string>
 </resources>

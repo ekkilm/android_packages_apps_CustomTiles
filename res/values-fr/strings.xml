@@ -21,7 +21,6 @@
   <string name="ambient_display_label">Affichage ambiant</string>
   <string name="network_adb_label">ADB par réseau</string>
   <string name="heads_up_label">Notifications flottantes</string>
-  <string name="sync_label">Synchro</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Caffeine</string>
 </resources>

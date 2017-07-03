@@ -21,7 +21,6 @@
   <string name="ambient_display_label">Pantalla ambient</string>
   <string name="network_adb_label">ADB sobre la xarxa</string>
   <string name="heads_up_label">Notificacions emergents</string>
-  <string name="sync_label">Sinc</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Cafeïna</string>
 </resources>

@@ -21,7 +21,6 @@
   <string name="ambient_display_label">アンビエント表示</string>
   <string name="network_adb_label">ネットワーク経由の ADB</string>
   <string name="heads_up_label">ヘッドアップ</string>
-  <string name="sync_label">同期</string>
   <!-- Caffeine -->
   <string name="caffeine_label">カフェイン</string>
 </resources>

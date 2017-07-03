@@ -21,7 +21,6 @@
   <string name="ambient_display_label">Omgivelsesskjerm</string>
   <string name="network_adb_label">ADB over nettverk</string>
   <string name="heads_up_label">Flytende varsler</string>
-  <string name="sync_label">Synkronisering</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Koffein</string>
 </resources>

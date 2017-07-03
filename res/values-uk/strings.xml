@@ -21,7 +21,6 @@
   <string name="ambient_display_label">Ambient дисплей</string>
   <string name="network_adb_label">ADB по мережі</string>
   <string name="heads_up_label">Спливаючі сповіщення</string>
-  <string name="sync_label">Синхронізація</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Кофеїн</string>
 </resources>

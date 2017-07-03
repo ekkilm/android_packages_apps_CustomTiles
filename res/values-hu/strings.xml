@@ -21,7 +21,6 @@
   <string name="ambient_display_label">Környezeti kijelző</string>
   <string name="network_adb_label">ADB hálózaton keresztül</string>
   <string name="heads_up_label">Lebegő értesítés</string>
-  <string name="sync_label">Szinkronizálás</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Caffeine</string>
 </resources>
