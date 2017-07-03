@@ -28,4 +28,9 @@
     <!-- Caffeine -->
     <string name="caffeine_label">Caffeine</string>
 
+    <!-- System Profiles tile -->
+    <string name="system_profile_label">System Profile</string>
+    <string name="dialog_system_profile_title">Select profile</string>
+    <string name="dialog_system_profile_message">No system profile found</string>
+
 </resources>
