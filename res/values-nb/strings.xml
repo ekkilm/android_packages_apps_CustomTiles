@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB over nettverk</string>
   <string name="heads_up_label">Flytende varsler</string>
   <string name="sync_label">Synkronisering</string>
-  <string name="usb_tether_label">USB-tethering</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Koffein</string>
 </resources>

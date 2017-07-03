@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB über Netzwerk</string>
   <string name="heads_up_label">Pop-up-Benachrichtigungen</string>
   <string name="sync_label">Synchronisation</string>
-  <string name="usb_tether_label">USB-Tethering</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Koffein</string>
 </resources>

@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB melalui jaringan</string>
   <string name="heads_up_label">Heads up</string>
   <string name="sync_label">Sinkronisasi</string>
-  <string name="usb_tether_label">Tethering USB</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Kafein</string>
 </resources>

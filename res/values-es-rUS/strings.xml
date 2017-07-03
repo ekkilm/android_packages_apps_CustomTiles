@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB sobre red</string>
   <string name="heads_up_label">Notificaciones emergentes</string>
   <string name="sync_label">Sincronización</string>
-  <string name="usb_tether_label">Anclaje USB</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Cafeína</string>
 </resources>

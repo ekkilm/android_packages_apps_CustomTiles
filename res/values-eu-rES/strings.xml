@@ -22,7 +22,6 @@
   <string name="network_adb_label">Sare bidezko ADB</string>
   <string name="heads_up_label">Jakinarazpen flotatzaileak</string>
   <string name="sync_label">Sinkronizazioa</string>
-  <string name="usb_tether_label">USB tethering</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Kafeina</string>
 </resources>

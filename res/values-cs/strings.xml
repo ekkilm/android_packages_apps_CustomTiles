@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB po síti</string>
   <string name="heads_up_label">Plovoucí upozornění</string>
   <string name="sync_label">Synchronizace</string>
-  <string name="usb_tether_label">USB tethering</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Kofein</string>
 </resources>

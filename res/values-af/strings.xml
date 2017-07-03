@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB oor netwerk</string>
   <string name="heads_up_label">Loer boodskap</string>
   <string name="sync_label">Sinkronisering</string>
-  <string name="usb_tether_label">USB verbinding</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Kafeïen</string>
 </resources>

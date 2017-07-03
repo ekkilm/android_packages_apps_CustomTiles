@@ -22,7 +22,6 @@
   <string name="network_adb_label">ネットワーク経由の ADB</string>
   <string name="heads_up_label">ヘッドアップ</string>
   <string name="sync_label">同期</string>
-  <string name="usb_tether_label">USB テザリング</string>
   <!-- Caffeine -->
   <string name="caffeine_label">カフェイン</string>
 </resources>

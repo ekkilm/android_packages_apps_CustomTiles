@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB qua mạng</string>
   <string name="heads_up_label">Thông báo nổi</string>
   <string name="sync_label">Đồng bộ hoá</string>>
-  <string name="usb_tether_label">Chia sẻ kết nối qua USB</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Chất gây nghiện</string>
 </resources>
