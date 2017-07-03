@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB verkon yli</string>
   <string name="heads_up_label">Heads up</string>
   <string name="sync_label">Synkronointi</string>
-  <string name="volume_panel_label">Äänenvoimakkuuspaneeli</string>
   <string name="usb_tether_label">USB-jakaminen</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Kofeiini</string>

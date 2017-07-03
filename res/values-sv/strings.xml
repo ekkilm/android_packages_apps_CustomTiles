@@ -19,6 +19,5 @@
   <!-- Labels -->
   <string name="ambient_display_label">Omgivningsskärm</string>
   <string name="sync_label">Synk</string>
-  <string name="volume_panel_label">Volympanel</string>
   <!-- Caffeine -->
 </resources>

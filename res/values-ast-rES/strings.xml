@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB per rede</string>
   <string name="heads_up_label">Avisos emerxentes</string>
   <string name="sync_label">Sincronización</string>
-  <string name="volume_panel_label">Panel de volume</string>
   <string name="usb_tether_label">Tethering USB</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Cafeína</string>

@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB през мрежата</string>
   <string name="heads_up_label">Изскачащи известия</string>
   <string name="sync_label">Синхронизация</string>
-  <string name="volume_panel_label">Звуков панел</string>
   <string name="usb_tether_label">Тетъринг през USB</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Кофеин</string>

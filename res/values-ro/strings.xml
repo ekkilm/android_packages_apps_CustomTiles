@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB prin rețea</string>
   <string name="heads_up_label">Heads up</string>
   <string name="sync_label">Sincronizare</string>
-  <string name="volume_panel_label">Panou de volum</string>
   <string name="usb_tether_label">Tethering prin USB</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Cofeină</string>

@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB preko omrežja</string>
   <string name="heads_up_label">Obvestila na zaslonu</string>
   <string name="sync_label">Sinhronizacija</string>
-  <string name="volume_panel_label">Plošča za glasnost</string>
   <string name="usb_tether_label">Delj. mob. int. USB</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Kofein</string>

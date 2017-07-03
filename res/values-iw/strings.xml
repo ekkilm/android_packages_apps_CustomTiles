@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB דרך הרשת</string>
   <string name="heads_up_label">התראות קופצות</string>
   <string name="sync_label">סנכרון</string>
-  <string name="volume_panel_label">לוח עוצמת השמע</string>
   <string name="usb_tether_label">‏שיתוף אינטרנט דרך USB</string>
   <!-- Caffeine -->
   <string name="caffeine_label">קפאין</string>

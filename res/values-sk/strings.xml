@@ -22,7 +22,6 @@
   <string name="network_adb_label">ADB cez sieť</string>
   <string name="heads_up_label">Plávajúce upozornenia</string>
   <string name="sync_label">Synchronizácia</string>
-  <string name="volume_panel_label">Panel hlasitosti</string>
   <string name="usb_tether_label">Zdieľanie cez USB</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Čas na kávu</string>
