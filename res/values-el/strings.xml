@@ -18,7 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Πρόσθετα πλακίδια</string>
   <!-- Labels -->
-  <string name="network_adb_label">ADB μέσω δικτύου</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Καφεΐνη</string>
 </resources>

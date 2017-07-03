@@ -18,7 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">추가 타일</string>
   <!-- Labels -->
-  <string name="network_adb_label">네트워크를 통한 ADB</string>
   <!-- Caffeine -->
   <string name="caffeine_label">카페인</string>
 </resources>

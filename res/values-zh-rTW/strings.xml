@@ -18,7 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">自訂圖塊</string>
   <!-- Labels -->
-  <string name="network_adb_label">透過網路 ADB</string>
   <!-- Caffeine -->
   <string name="caffeine_label">暫停休眠</string>
 </resources>
