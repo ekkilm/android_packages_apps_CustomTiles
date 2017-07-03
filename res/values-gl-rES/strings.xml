@@ -20,7 +20,6 @@
   <!-- Labels -->
   <string name="ambient_display_label">Pantalla ambiente</string>
   <string name="network_adb_label">ADB sobre a rede</string>
-  <string name="heads_up_label">Notificacións emerxentes</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Cafeína</string>
 </resources>

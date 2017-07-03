@@ -20,7 +20,6 @@
   <!-- Labels -->
   <string name="ambient_display_label">Οθόνη ambient</string>
   <string name="network_adb_label">ADB μέσω δικτύου</string>
-  <string name="heads_up_label">Αναδυόμενες ειδοποιήσεις</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Καφεΐνη</string>
 </resources>

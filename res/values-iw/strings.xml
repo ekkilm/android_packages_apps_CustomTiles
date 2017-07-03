@@ -20,7 +20,6 @@
   <!-- Labels -->
   <string name="ambient_display_label">תצוגת התראות עמומה</string>
   <string name="network_adb_label">ADB דרך הרשת</string>
-  <string name="heads_up_label">התראות קופצות</string>
   <!-- Caffeine -->
   <string name="caffeine_label">קפאין</string>
 </resources>

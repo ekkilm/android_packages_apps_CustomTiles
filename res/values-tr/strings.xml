@@ -20,7 +20,6 @@
   <!-- Labels -->
   <string name="ambient_display_label">Ortam ekranı</string>
   <string name="network_adb_label">Ağ üzerinden ADB</string>
-  <string name="heads_up_label">Bildirim pencereleri</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Kafein</string>
 </resources>

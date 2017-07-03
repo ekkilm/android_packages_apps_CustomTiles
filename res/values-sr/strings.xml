@@ -20,7 +20,6 @@
   <!-- Labels -->
   <string name="ambient_display_label">Амбијентални екран</string>
   <string name="network_adb_label">ADB преко мреже</string>
-  <string name="heads_up_label">Искачућа обавештења</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Кофеин</string>
 </resources>

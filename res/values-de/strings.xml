@@ -20,7 +20,6 @@
   <!-- Labels -->
   <string name="ambient_display_label">Inaktivitätsdisplay</string>
   <string name="network_adb_label">ADB über Netzwerk</string>
-  <string name="heads_up_label">Pop-up-Benachrichtigungen</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Koffein</string>
 </resources>

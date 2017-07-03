@@ -20,7 +20,6 @@
   <!-- Labels -->
   <string name="ambient_display_label">Omgewings skerm</string>
   <string name="network_adb_label">ADB oor netwerk</string>
-  <string name="heads_up_label">Loer boodskap</string>
   <!-- Caffeine -->
   <string name="caffeine_label">Kafeïen</string>
 </resources>
