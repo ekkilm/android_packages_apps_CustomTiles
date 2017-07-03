@@ -36,22 +36,8 @@ public class BootReceiver extends BroadcastReceiver {
                 PackageManager.DONT_KILL_APP);
     }
 
-    private static boolean isDozeAvailable(Context context) {
-        String name = Build.IS_DEBUGGABLE ? SystemProperties.get("debug.doze.component") : null;
-        if (TextUtils.isEmpty(name)) {
-            name = context.getResources().getString(
-                    com.android.internal.R.string.config_dozeComponent);
-        }
-        return !TextUtils.isEmpty(name);
-    }
-
     public static boolean hasPowerProfiles(Context context) {
         return PerformanceManager.getInstance(context).getNumberOfProfiles() > 0;
-    }
-
-    @Override
-    public void onReceive(Context context, Intent intent) {
-        setTileEnabled(context, AmbientDisplayTile.class, isDozeAvailable(context));
     }
 
 }

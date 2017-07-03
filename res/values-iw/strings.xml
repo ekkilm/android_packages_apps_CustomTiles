@@ -18,7 +18,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">אריחים נוספים</string>
   <!-- Labels -->
-  <string name="ambient_display_label">תצוגת התראות עמומה</string>
   <string name="network_adb_label">ADB דרך הרשת</string>
   <!-- Caffeine -->
   <string name="caffeine_label">קפאין</string>

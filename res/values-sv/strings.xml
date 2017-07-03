@@ -17,6 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Labels -->
-  <string name="ambient_display_label">Omgivningsskärm</string>
   <!-- Caffeine -->
 </resources>
