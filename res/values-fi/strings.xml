@@ -17,6 +17,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Lisätiilet</string>
-  <!-- Labels -->
-  <!-- Caffeine -->
+	<!-- Labels -->
+	<!-- Caffeine -->
+    <!-- System Profiles tile -->
+    <string name="system_profile_label">Järjestelmäprofiilit</string>
+    <string name="dialog_system_profile_title">Valitse Profiili</string>
+    <string name="dialog_system_profile_message">Järjestelmäprofiilia ei löydy</string>
 </resources>
